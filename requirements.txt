@@ -1,0 +1,6 @@
+python-telegram-bot[webhooks]==20.8
+requests
+python-dotenv
+yookassa
+flask
+urllib3
